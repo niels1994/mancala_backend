@@ -1,0 +1,8 @@
+mancala/domain/kalaha.java
+ mancala.domain.kalaha
+mancala/domain/Bowl.java
+ mancala.domain.Bowl
+mancala/domain/Wells.java
+ mancala.domain.Wells
+mancala/domain/Player.java
+ mancala.domain.Player
